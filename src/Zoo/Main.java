@@ -31,7 +31,7 @@ public class Main {
         listaDeAnimales.add(new Loro());
         listaDeAnimales.add(new Elefante());
         listaDeAnimales.add(new PezEspada());
-
+        listaDeAnimales.add(new Abeja());
         listaDeAnimales.add(new Colibri());
 
         listaDeAnimales.add( new Saltamontes() );
